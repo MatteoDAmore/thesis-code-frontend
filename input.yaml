@@ -22,3 +22,4 @@ image:
     tag: custom-tag
 clusters: 
   - in-cluster
+  - azure-cluster
